@@ -1,4 +1,4 @@
-name: Auto Update Star Playlist
+name: Auto Update Star Files
 
 on:
   schedule:
