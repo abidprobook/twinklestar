@@ -1,5 +1,6 @@
 requests
 cloudscraper
 pycryptodomex
+pycryptodome
 protobuf<=3.20.3
 construct
